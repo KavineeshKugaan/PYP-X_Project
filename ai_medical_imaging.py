@@ -1,7 +1,7 @@
 import os
 from PIL import Image as PILImage
 # from agno.agent import Agent
-from agno.models.google import Gemini
+# from agno.models.google import Gemini
 import streamlit as st
 from agno.tools.duckduckgo import DuckDuckGoTools
 from agno.media import Image as AgnoImage
